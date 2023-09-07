@@ -13,7 +13,7 @@ Awesome Mac
 
 ![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；\
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\
-![App Store][app-store Icon] 表示 **App store** 连接地址；\
+![App Store][app-store Icon] 表示 **App store** 链接地址；\
 ![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
 
 <!--idoc:ignore:start-->
@@ -93,7 +93,7 @@ Awesome Mac
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
-* [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
+* [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 IntelliJ IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Nova](http://panic.com/coda/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
